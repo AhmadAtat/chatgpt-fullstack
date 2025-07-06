@@ -1,0 +1,16 @@
+# .NET build output
+bin/
+obj/
+*.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Secrets and config
+appsettings.Development.json
+appsettings.*.json.user
+*.secrets.json
